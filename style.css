@@ -78,4 +78,8 @@ line-height: 1.5;
     font-style: normal;
     flex-direction: inherit;
  }
+ strong{
+   background-color: darkgray;
+   color: brown;
+ }
  
