@@ -46,6 +46,13 @@ line-height: 1.5;
    border-radius: 4px;
    box-sizing: content-box;
  }
+ h3{
+   width: 600px;
+   padding: 30px;
+   padding-inline-end: 4px;
+   margin: 40px;
+   box-sizing: inherit;
+ }
  p{
     background-color: azure;
     color: rgb(210, 30, 36);
