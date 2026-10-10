@@ -74,4 +74,8 @@ line-height: 1.5;
  p{
     background-color: azure;
     color: rgb(210, 30, 36);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    flex-direction: inherit;
  }
+ 
