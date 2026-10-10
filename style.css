@@ -90,5 +90,6 @@ line-height: 1.5;
  }
  footer{
    position: 40px 20px;
+   flex-direction: column;
    
  }
