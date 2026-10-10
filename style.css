@@ -85,4 +85,6 @@ line-height: 1.5;
  li{
    background-color: antiquewhite;
    color: brown;
+   font-style: normal;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
  }
