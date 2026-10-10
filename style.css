@@ -40,6 +40,11 @@ line-height: 1.5;
    background-color: blanchedalmond;
    color: crimson;
    text-align: justify;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-style: oblique;
+   border: 600px;
+   border-radius: 4px;
+   box-sizing: content-box;
  }
  p{
     background-color: azure;
