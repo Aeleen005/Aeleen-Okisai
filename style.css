@@ -30,6 +30,17 @@ line-height: 1.5;
    border: 8px solid brown;
    border-radius: 3px;
  }
+ h2{
+   width: 700px;
+   padding: 20px;
+   padding-block: inherit;
+   margin: 30px;
+ }
+ h3{
+   background-color: blanchedalmond;
+   color: crimson;
+   text-align: justify;
+ }
  p{
     background-color: azure;
     color: rgb(210, 30, 36);
