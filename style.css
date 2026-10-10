@@ -42,7 +42,7 @@ line-height: 1.5;
    text-align: justify;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    font-style: oblique;
-   border: 600px;
+   border: solid black;
    border-radius: 4px;
    box-sizing: content-box;
  }
@@ -52,6 +52,13 @@ line-height: 1.5;
    padding-inline-end: 4px;
    margin: 40px;
    box-sizing: inherit;
+ }
+ h4{
+   background-color: cyan;
+   color: darkred;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   flex-wrap: initial;
+   border: solid goldenrod;
  }
  p{
     background-color: azure;
