@@ -58,7 +58,14 @@ line-height: 1.5;
    color: darkred;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    flex-wrap: initial;
+   text-align: center;
    border: solid goldenrod;
+   box-sizing: inherit;
+   border-radius: 3px;
+   left: 0%;
+ }
+ h4{
+   
  }
  p{
     background-color: azure;
